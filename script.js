@@ -1,4 +1,4 @@
-const socket = io("https://your-chat-backend.vercel.app"); // Replace with your backend URL
+const socket = io("https://socketiochatapp-ruddy.vercel.app/"); // Replace with your backend URL
 
 const loginContainer = document.getElementById("login-container");
 const chatContainer = document.getElementById("chat-container");
